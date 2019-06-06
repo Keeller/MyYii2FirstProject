@@ -1,7 +1,7 @@
 <html>
 
 <head>
-    <title>Video school</title>
+    <title>video1 school</title>
 
 </head>
 
