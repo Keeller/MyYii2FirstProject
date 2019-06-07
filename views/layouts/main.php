@@ -25,6 +25,16 @@ $this->beginBody();
             ]
 ]);
 
+$items=[
+        ['label'=>'Join', 'url'=>['/site/join']],
+        ['label'=>'Login', 'url'=>['/site/login']]
+
+];
+echo \yii\bootstrap\Nav::widget([
+        'options'=>['class'=> 'navbar-nav navbar-right'],
+        'items'=>$items
+]);
+
 \yii\bootstrap\NavBar::end();
 ?>
 
