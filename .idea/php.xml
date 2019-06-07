@@ -73,6 +73,7 @@
       <path value="$PROJECT_DIR$/vendor/bower/punycode" />
       <path value="$PROJECT_DIR$/vendor/bower/yii2-pjax" />
       <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-debug" />
     </include_path>
   </component>
 </project>
